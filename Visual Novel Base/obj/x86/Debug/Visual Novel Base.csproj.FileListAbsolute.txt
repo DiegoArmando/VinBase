@@ -1,0 +1,22 @@
+L:\Game Creation\Visual Novel Base\Visual Novel Base\obj\x86\Debug\Visual Novel Base.csprojResolveAssemblyReference.cache
+L:\Game Creation\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\SDL.dll
+L:\Game Creation\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\Visual Novel Base.exe
+L:\Game Creation\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\Visual Novel Base.pdb
+L:\Game Creation\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\Lidgren.Network.dll
+L:\Game Creation\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\MonoGame.Framework.dll
+L:\Game Creation\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\OpenTK.dll
+L:\Game Creation\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\Tao.Sdl.dll
+L:\Game Creation\Visual Novel Base\Visual Novel Base\obj\x86\Debug\Visual Novel Base.exe
+L:\Game Creation\Visual Novel Base\Visual Novel Base\obj\x86\Debug\Visual Novel Base.pdb
+L:\Game Creation\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\obj\x86\Debug\Visual Novel Base.exe
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\obj\x86\Debug\Visual Novel Base.pdb
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\SDL.dll
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\Visual Novel Base.exe
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\Visual Novel Base.pdb
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\Lidgren.Network.dll
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\MonoGame.Framework.dll
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\OpenTK.dll
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\bin\WindowsGL\Debug\Tao.Sdl.dll
+L:\Game Creation\Games\Visual Novel Base\Visual Novel Base\obj\x86\Debug\Visual Novel Base.csprojResolveAssemblyReference.cache

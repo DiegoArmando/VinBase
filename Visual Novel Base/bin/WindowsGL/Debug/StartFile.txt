@@ -1,0 +1,9 @@
+<character>
+Matte
+</character>
+
+<text>
+Shall quips and sentences and these paper bullets of
+the brain awe a man from the career of his humour?
+No, the world must be peopled.
+</text>

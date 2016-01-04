@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Visual Novel Base\Game1.cs">
+    <Files>
+      <File FileName="Visual Novel Base\Game1.cs" Line="42" Column="42" />
+      <File FileName="Visual Novel Base\Character.cs" Line="1" Column="1" />
+      <File FileName="Visual Novel Base\DialogBox.cs" Line="40" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
